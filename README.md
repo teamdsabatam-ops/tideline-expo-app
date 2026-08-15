@@ -1,6 +1,6 @@
 # Tideline — Meet New People, Visit New Places, Create New Stories
 
-Tideline is a mobile app that transforms solo and small-group travel into a shared, spontaneous social experience. It is built around a common travel scenario: day-trippers travelling from to Batam often lack an integrated itinerary and travel companions to explore with. While designed with this scenario in mind, the concept can extend to any destination where solo or small-group travellers want to meet new people, discover new places, and share experiences. However, Batam specific Use Cases has been discussed in detail for our project.
+Tideline is a mobile app that transforms solo and small-group travel into a shared, spontaneous social experience. It is built around a common travel scenario: day-trippers travelling to Batam often lack an integrated itinerary and travel companions to explore with. While designed with this scenario in mind, the concept can extend to any destination where solo or small-group travellers want to meet new people, discover new places, and share experiences. However, Batam specific Use Cases has been discussed in detail for our project.
 
 ## Current Scenario (The Major Problem):
 
