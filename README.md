@@ -1,4 +1,4 @@
-# Tideline — Meet new people, create new stories
+# Tideline — Meet new people, Visit New Places, Create new stories
 
 Tideline is a mobile app that turns solo and small-group travel into a
 shared, spontaneous social experience. It's built around a real trip
