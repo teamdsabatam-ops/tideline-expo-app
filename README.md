@@ -91,6 +91,25 @@ as an additonal incentive to say yes, along with the most desired benefit of **M
 
 ---
 
+## Project Architecture:
+
+<img width="1169" height="621" alt="image" src="https://github.com/user-attachments/assets/c219788e-ec8c-4410-94dd-61773b10cc23" />
+
+## Tech Stack
+
+## Technology Stack Mapping
+
+| Layer | Technology Component | Functional Capability |
+|---|---|---|
+| **Mobile** | Android Studio / Android | Native UI, onboarding, personalised map feed & profile management |
+| **Proximity** | BLE Beacons + Device Location | Micro-location context, common-space detection & physical triggers |
+| **Maps** | Maps / Location SDK | Interactive route rendering, place discovery & geofencing |
+| **AI Engine** | Recommendation & Matching Engine | Interest vectoring, crowd-level analysis & group pairing |
+| **Real-Time** | Real-time Database / APIs | Live nearby chat, group creation & Point A → B group threads |
+| **Backend** | Cloud Backend / REST APIs | Business data ingestion, user state & secure authentication |
+| **Analytics** | Footfall & Impact Metrics | Visitor distribution monitoring & Eco/Reward points tracking |
+
+
 ## Targt User Base
 
 - Corporate travellers on a 1–2 day trip with no one to explore with
