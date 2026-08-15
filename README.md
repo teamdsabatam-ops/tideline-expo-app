@@ -142,7 +142,7 @@ as an additonal incentive to say yes, along with the most desired benefit of **M
 ## Market Survey Video
 
 - We spoke to actual tourists in Batam. People seem to be really interested in the app. Both tourists and Business users.
-Please refer to market survey video to learn
+Please refer to market survey video .
 
 ## Future Scope
 
