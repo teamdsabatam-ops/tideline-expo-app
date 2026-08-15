@@ -12,10 +12,6 @@ However, while there are plenty of platforms that
 help travellers find places to visit, there is no natural, low-pressure way
 to find and connect with people nearby who want to explore the same places.
 
-**People want to meet new people while travelling**, but approaching strangers
-can feel awkward — especially when travelling alone, in a foreign country,
-and on a limited timeline.
-
 ## Batam Specific Problems:
 
 - **Scattered itineraries, mostly SG travellers.** People travelling to
@@ -143,6 +139,11 @@ as an additonal incentive to say yes, along with the most desired benefit of **M
 
 ---
 
+## Market Survey Video
+
+- We spoke to actual tourists in Batam. People seem to be really interested in the app. Both tourists and Business users.
+Please refer to market survey video to learn
+
 ## Future Scope
 
 - **Enhanced profile discovery for premium subscribers** — premium users
@@ -153,6 +154,12 @@ as an additonal incentive to say yes, along with the most desired benefit of **M
   you've travelled together and what you did.
 
 ---
+
+## Deployed Video:
+
+- **The existing solution is a web deployed live solution. Final Solution will be a Mobile App. Where people can find nearby people using Bluetooth (BLE) mesh.
+
+##
 
 ## Repository Structure
 
