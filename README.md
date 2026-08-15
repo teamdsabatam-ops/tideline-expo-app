@@ -162,6 +162,7 @@ as an additonal incentive to say yes, along with the most desired benefit of **M
 
 - We spoke to actual tourists in Batam. People seem to be really interested in the app. Both tourists and Business users.
 Please refer to market survey video .
+https://youtube.com/shorts/1uWgl_lp4Hc
 
 ## Future Scope
 
