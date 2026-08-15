@@ -155,7 +155,7 @@ Please refer to market survey video .
 
 ---
 
-## Deployed Video:
+## Deployed Version:
 
 - **The existing solution is a web deployed live solution. Final Solution will be a Mobile App. Where people can find nearby people using Bluetooth (BLE) mesh.
 
