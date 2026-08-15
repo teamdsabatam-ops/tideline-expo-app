@@ -12,9 +12,9 @@ However, while there are plenty of platforms that
 help travellers find places to visit, there is no natural, low-pressure way
 to find and connect with people nearby who want to explore the same places.
 
-**People want to meet new people while travelling, but approaching strangers
+**People want to meet new people while travelling**, but approaching strangers
 can feel awkward — especially when travelling alone, in a foreign country,
-and on a limited timeline.**
+and on a limited timeline.
 
 ## Batam Specific Problems:
 
