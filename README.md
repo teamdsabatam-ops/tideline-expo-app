@@ -1,22 +1,13 @@
 # Tideline — Meet New People, Visit New Places, Create New Stories
 
-Tideline is a mobile app that turns solo and small-group travel into a
-shared, spontaneous social experience. It's built around a real trip
-scenario — day-trippers heading from Singapore to Batam — but the core idea
-generalizes to any destination where people travel alone, want company, and
-don't know anyone nearby.
+Tideline is a mobile app that transforms solo and small-group travel into a shared, spontaneous social experience. It is built around a common travel scenario: day-trippers travelling from to Batam often lack an integrated itinerary and travel companions to explore with. While designed with this scenario in mind, the concept can extend to any destination where solo or small-group travellers want to meet new people, discover new places, and share experiences. However, Batam specific Use Cases has been discussed in detail for our project.
 
-> **Promo line:** *Meet new people, create new stories.*
-
----
 
 ## 🌊 Why "Tideline"?
 
 Just as a tide brings different paths into one flow, **Tideline brings
-travellers, places, and shared journeys together**.
+travellers, places, and shared journeys together into a unified Flow**.
 
-One connection leads to one journey — **Point A → Point B → Point C** — with
-different people joining along the way.
 
 The name represents our vision of creating a continuous flow between
 **people, places, and experiences**, turning individual trips into shared
@@ -49,7 +40,7 @@ And existing apps mostly fulfill only the **second** criteria.
   integrated plan — which also means more solo trips and a higher carbon
   footprint per person.
 
-- **Over-crowding in popular places vs. under-explored hidden gems.**
+- **Over-crowding in popular places vs. under-exploration of hidden gems.**
   Everyone converges on the same handful of popular spots, which get
   crowded, while genuinely good local businesses stay undiscovered.
 
@@ -61,7 +52,7 @@ Tideline gives travellers a shared, location-aware feed of nearby events
 and places, an icebreaker chat to find people going the same way, and a
 lightweight group-forming flow that turns **"who else wants to do this?"**
 into an actual trip together — with group discounts from local businesses
-as the incentive to say yes.
+as an additonal incentive to say yes, along with the most desired benefit of **Meeting new people, while exploring new placess**
 
 ### How It Works
 
@@ -111,7 +102,7 @@ as the incentive to say yes.
 
 ---
 
-## User Base
+## Targt User Base
 
 - Corporate travellers on a 1–2 day trip with no one to explore with
 - Solo travellers
@@ -124,7 +115,7 @@ as the incentive to say yes.
 ## What Makes It Different (USP)
 
 - **An icebreaker for public spaces.** Instead of relying on people to
-  approach strangers cold, the app gives them a shared reason (a nearby
+  approach strangers cold, the app gives them a shared reason (physcially already present in a particular location interested to travel to a nearby
   event) and a low-stakes way to say "I'm interested too."
 
 - **Chained, collaborative itineraries.** No single fixed plan — people
@@ -161,12 +152,12 @@ as the incentive to say yes.
 
 ## Future Scope
 
-- **Travel history between two people** — tap a profile to see everywhere
-  you've travelled together and what you did.
-
 - **Enhanced profile discovery for premium subscribers** — premium users
   could see additional profile information and preferences to help them
   choose compatible people to travel with.
+
+  - **Travel history between two people** — tap a profile to see everywhere
+  you've travelled together and what you did.
 
 ---
 
