@@ -6,7 +6,8 @@ Tideline is a mobile app that transforms solo and small-group travel into a shar
 
 When people travel to a new place, they often want to 
 **meet new people**
-**and discover new places**
+**and discover new places.**
+
 However, while there are plenty of platforms that
 help travellers find places to visit, there is no natural, low-pressure way
 to find and connect with people nearby who want to explore the same places.
