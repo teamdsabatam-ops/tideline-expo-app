@@ -2,18 +2,7 @@
 
 Tideline is a mobile app that transforms solo and small-group travel into a shared, spontaneous social experience. It is built around a common travel scenario: day-trippers travelling from to Batam often lack an integrated itinerary and travel companions to explore with. While designed with this scenario in mind, the concept can extend to any destination where solo or small-group travellers want to meet new people, discover new places, and share experiences. However, Batam specific Use Cases has been discussed in detail for our project.
 
-
-## 🌊 Why "Tideline"?
-
-Just as a tide brings different paths into one flow, **Tideline brings
-travellers, places, and shared journeys together into a unified Flow**.
-
-
-The name represents our vision of creating a continuous flow between
-**people, places, and experiences**, turning individual trips into shared
-journeys.
-
-## The Problem
+## Current Scenario (The Major Problem):
 
 When people travel to a new place, they often want to **discover new places
 and meet new people**. However, while there are plenty of platforms that
@@ -24,31 +13,30 @@ to find and connect with people nearby who want to explore the same places.
 can feel awkward — especially when travelling alone, in a foreign country,
 and on a limited timeline.**
 
-Existing platforms address these needs separately:
+## Batam Specific Problems:
 
-- **Travel apps** help people decide *where to go*, but generally don't help
-  them find *who wants to go there with them*.
-- **Social media apps** help people connect online, but are primarily designed
-  for interactions behind the screen rather than spontaneous, real-world
-  connections while travelling.
+- **Scattered itineraries, mostly SG travellers.** People travelling to
+  Batam (and similar short-haul destinations) mostly go it alone, with no
+  integrated plan — which also means more solo trips and a higher carbon
+  footprint per person.
 
-This creates a gap:
+- **Over-crowding in popular places vs. under-explored hidden gems.**
+  Everyone converges on the same handful of popular spots, which get
+  crowded, while genuinely good local businesses stay undiscovered.
 
-> **Who nearby wants to go where I want to go?**
+  ## Our Core Proposition:
 
-### The Batam Opportunity
-
-For travellers making short trips from Singapore to Batam, this gap is even
-more visible. Many travellers plan their trips independently, resulting in
-scattered itineraries and separate journeys. At the same time, visitors tend
-to concentrate around a small number of popular attractions, while
-lesser-known places and local businesses remain under-explored.
-
-Tideline addresses both problems by connecting **people who want to go to the
-same place**, while also encouraging travellers to discover destinations
-beyond the usual tourist hotspots.
+  **Meet new people, while visiting new places.**
 
 ## The Solution
+## 🌊 Why "Tideline"?
+
+Just as a tide brings different paths into one flow, **Tideline brings
+travellers, places, and shared journeys together into a unified Flow**.
+
+The name represents our vision of creating a continuous flow between
+**people, places, and experiences**, turning individual trips into shared
+journeys.
 
 Tideline gives travellers a shared, location-aware feed of nearby events
 and places, an icebreaker chat to find people going the same way, and a
