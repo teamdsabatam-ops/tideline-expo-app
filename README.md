@@ -28,7 +28,7 @@ to find and connect with people nearby who want to explore the same places.
   **Meet new people, while visiting new places.**
 
 ## The Solution
-## 🌊 Why "Tideline"?
+## 🌊 "Tideline"?
 
 Just as a tide brings different paths into one flow, **Tideline brings
 travellers, places, and shared journeys together into a unified Flow**.
