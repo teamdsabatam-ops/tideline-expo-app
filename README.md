@@ -13,38 +13,40 @@ The name represents our vision of creating a continuous flow between
 **people, places, and experiences**, turning individual trips into shared
 journeys.
 
----
-
 ## The Problem
 
-### When People Travel, They Ideally Want To:
+When people travel to a new place, they often want to **discover new places
+and meet new people**. However, while there are plenty of platforms that
+help travellers find places to visit, there is no natural, low-pressure way
+to find and connect with people nearby who want to explore the same places.
 
-1. **Meet new people**
-2. **Visit new places**
+**People want to meet new people while travelling, but approaching strangers
+can feel awkward — especially when travelling alone, in a foreign country,
+and on a limited timeline.**
 
-And existing apps mostly fulfill only the **second** criteria.
+Existing platforms address these needs separately:
 
-### Our Core Proposition
+- **Travel apps** help people decide *where to go*, but generally don't help
+  them find *who wants to go there with them*.
+- **Social media apps** help people connect online, but are primarily designed
+  for interactions behind the screen rather than spontaneous, real-world
+  connections while travelling.
 
-> **Meet new people, while visiting new places.**
+This creates a gap:
 
-- **Approach anxiety.** People want to meet new people and see new places,
-  but there's no natural, low-pressure way to connect with strangers who
-  share their interests — especially in a public place, in a foreign
-  country, on a tight timeline.
+> **Who nearby wants to go where I want to go?**
 
-### Batam-Specific Problem
+### The Batam Opportunity
 
-- **Scattered itineraries, mostly SG travellers.** People travelling to
-  Batam (and similar short-haul destinations) mostly go it alone, with no
-  integrated plan — which also means more solo trips and a higher carbon
-  footprint per person.
+For travellers making short trips from Singapore to Batam, this gap is even
+more visible. Many travellers plan their trips independently, resulting in
+scattered itineraries and separate journeys. At the same time, visitors tend
+to concentrate around a small number of popular attractions, while
+lesser-known places and local businesses remain under-explored.
 
-- **Over-crowding in popular places vs. under-exploration of hidden gems.**
-  Everyone converges on the same handful of popular spots, which get
-  crowded, while genuinely good local businesses stay undiscovered.
-
----
+Tideline addresses both problems by connecting **people who want to go to the
+same place**, while also encouraging travellers to discover destinations
+beyond the usual tourist hotspots.
 
 ## The Solution
 
