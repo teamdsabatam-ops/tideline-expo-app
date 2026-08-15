@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Tideline Batam",
+    "slug": "tideline-batam",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#f7f4ea",
+    "android": {
+      "package": "com.tideline.batam",
+      "adaptiveIcon": {
+        "backgroundColor": "#f7f4ea"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.tideline.batam"
+    }
+  }
+}
